@@ -2,6 +2,7 @@
 layout: ondieting
 title: Overview
 ---
+[Introduction]: /introduction.html
 
 Overview
 --------
@@ -20,7 +21,7 @@ execution environment.
 We've focused on catering for the needs of enterprises and large deploys, we have pluggable Authentication, 
 Authorization and Auditing capabilities that sets us apart from other tools in this space.
 
-Read the <a href="/introduction.html">Introduction</a> page for a full 
+Read the [Introduction][] page for a full 
 introduction about what you can do with mcollective and some of our goals and approaches.
 
 We've recorded a quick screencast that introduces the main elements, please view it below - maximise it for

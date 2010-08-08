@@ -2,6 +2,15 @@
 layout: ondieting
 title: EC2 Demo
 ---
+[Amazon Console]: https://console.aws.amazon.com/ec2/
+[Puppet based Service]: http://code.google.com/p/mcollective-plugins/wiki/AgentService
+[Puppet based Package]: http://code.google.com/p/mcollective-plugins/wiki/AgentPuppetPackage
+[NRPE]: http://code.google.com/p/mcollective-plugins/wiki/AgentNRPE
+[Meta Registration]: http://code.google.com/p/mcollective-plugins/wiki/RegistrationMetaData
+[URL Tester]: http://code.google.com/p/mcollective-plugins/wiki/AgentUrltest
+[Discovery Aware SSH]: http://code.google.com/p/mcollective-plugins/wiki/UtilitiesSSH
+[Registration]: http://code.google.com/p/mcollective/wiki/Registration
+[Registration Monitor]: http://code.google.com/p/mcollective-plugins/wiki/AgentRegistrationMonitor
 
 EC2 Demo
 --------
@@ -23,8 +32,7 @@ AMI id that is running mcollective 0.4.2.
 	<tr><td>ami-21c8e355</td><td>Server and Node for MCollective 0.4.2</td></tr>
 </table>
 
-The video shows you the basic steps to get it going using the 
-[Amazon Console](https://console.aws.amazon.com/ec2/).
+The video shows you the basic steps to get it going using the [Amazon Console][].
 
 We can create a copy of it in the US if there's demand for that.
 
@@ -39,7 +47,7 @@ Starting main node
 To start the main node you need to provide some user data:
 
 {% highlight ini %}
-mcollective=server
+    mcollective=server
 {% endhighlight %}
 
 and then once it's up you should run the *start-mcollective-demo.rb* 
@@ -50,17 +58,16 @@ Agents
 ------
 The images all have the basic agents going as well as some community ones:
 
- * [Puppet based Service](http://code.google.com/p/mcollective-plugins/wiki/AgentService)
- * [Puppet based Package](http://code.google.com/p/mcollective-plugins/wiki/AgentPuppetPackage)
- * [NRPE](http://code.google.com/p/mcollective-plugins/wiki/AgentNRPE)
- * [Meta Registration](http://code.google.com/p/mcollective-plugins/wiki/RegistrationMetaData)
- * [URL Tester](http://code.google.com/p/mcollective-plugins/wiki/AgentUrltest)
- * [Discovery Aware SSH](http://code.google.com/p/mcollective-plugins/wiki/UtilitiesSSH)
+ * [Puppet based Service][]
+ * [Puppet based Package][]
+ * [NRPE][]
+ * [Meta Registration][]
+ * [URL Tester][]
+ * [Discovery Aware SSH][]
 
 Registration
 ------------
-The main node will have [Registration](http://code.google.com/p/mcollective/wiki/Registration) setup and the community 
-[Registration Monitor](http://code.google.com/p/mcollective-plugins/wiki/AgentRegistrationMonitor) agent, 
+The main node will have [Registration] setup and the community [Registration Monitor] agent, 
 look in */var/tmp/mcollective* for meta data from all your nodes.
 
 The current AMI has 1 x left over file there from when I was building the AMI.

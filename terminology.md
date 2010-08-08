@@ -2,6 +2,13 @@
 layout: ondieting
 title: Terminology
 ---
+[Software_agent]: http://en.wikipedia.org/wiki/Software_agent
+[Plugin]: http://en.wikipedia.org/wiki/Plugin
+[Publish_subscribe]: http://en.wikipedia.org/wiki/Publish_subscribe
+[Apache ActiveMQ]: http://activemq.apache.org/
+[SimpleRPCAgents]: http://code.google.com/p/mcollective/wiki/SimpleRPCAgents
+[SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
+[WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
 
 Terminology
 -----------
@@ -18,16 +25,16 @@ The Computer or Operating System that the Server runs on.
 ### Agent
 A block of Ruby code that performs a specific role, the main reason for 
 mcollective's existence is to host agents.  Agents can perform tasks like 
-manipulate firewalls, services, packages etc. See [Wikpedia](http://en.wikipedia.org/wiki/Software_agent).
+manipulate firewalls, services, packages etc. See [Wikpedia][Software_agent].
 
-Docs to write your own can be seen in [SimpleRPCAgents](http://code.google.com/p/mcollective/wiki/SimpleRPCAgents)
+Docs to write your own can be seen in [SimpleRPCAgents]
 
 ### Plugins
 Ruby code that lives inside the server and takes on roles like security, connection 
-handling, agents and so forth.  See [Wikipedia](ttp://en.wikipedia.org/wiki/Plugin)
+handling, agents and so forth.  See [Wikipedia][Plugin]
 
 ### Middleware
-A [publish subscribe](http://en.wikipedia.org/wiki/Publish_subscribe) based system like [Apache ActiveMQ](http://activemq.apache.org/).
+A [publish subscribe][Publish_subscribe] based system like [Apache ActiveMQ].
 
 ### Connector
 A plugin of the type *MCollective::Connector* that handles the communication with your chosen Middleware.
@@ -48,7 +55,7 @@ Multiple collectives can be built sharing the same Middleware but kept separate 
 
 ### Simple RPC
 A Remote Procedure Call system built ontop of MCollective that makes it very simple to write feature 
-full agents and clients.  See [SimpleRPCIntroduction](http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction).
+full agents and clients.  See [SimpleRPCIntroduction].
 
 ### Action
 Agents expose tasks, we call these tasks actions.  Each agent like a exim queue management agent might 
@@ -59,7 +66,7 @@ Discreet bits of information about your nodes. Examples could be the domain name
 role, operating system release etc.
 
 Facts are provided by plugins of the type *MCollective::Facts*, you can read about writing 
-your own in [WritingFactsPlugins](http://code.google.com/p/mcollective/wiki/WritingFactsPlugins)
+your own in [WritingFactsPlugins]
 
 ### Registration
 Servers can send regular messages to an agent called *registration*.  The code that sends the 

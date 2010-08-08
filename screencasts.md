@@ -2,16 +2,20 @@
 layout: ondieting
 title: Screen Casts
 ---
+[blip]: http://mcollective.blip.tv/
+[slideshare]: http://www.slideshare.net/mcollective
+[ec2demo]: /ec2demo.html
+[Terminology]: /terminology.html
+[SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
+[DDL]: http://code.google.com/p/mcollective/wiki/SimpleRPCDDL
 
 Screen Casts
 ------------
 We believe screen casts give the best introduction to new concepts, we've recorded
 quite a few that compliments the documentation.
 
-There's a [blip.tv](http://mcollective.blip.tv/) channel that has all the videos,
-you can subscribe and follow there.  There is also a 
-[slideshare](http://www.slideshare.net/mcollective) site where 
-presentations will go that we do at conferences and events.
+There's a [blip] channel that has all the videos, you can subscribe and follow there.  
+There is also a [slideshare] site where presentations will go that we do at conferences and events.
 
 ### Introductions and Guides
 <ol>
@@ -45,7 +49,7 @@ Sometimes you just want to know if a tool is right for you by getting hands on e
 we've made a EC2 hosted demo where you can fire up as many nodes in a cluster as you want and
 get some experience.
 
-View the [ec2demo](/ec2demo.html) page for more about this.
+View the [ec2demo] page for more about this.
 
 <embed src="http://blip.tv/play/hfMOgfSIRgA" type="application/x-shockwave-flash" width="640" 
 height="385" allowscriptaccess="always" allowfullscreen="true"></embed>
@@ -57,7 +61,7 @@ This video introduce the messaging concepts you need to know about when using MC
 it shows how the components talk with each other and what software needs to be installed where
 on your network.  Recommended you view this prior to starting your deployment. 
 
-We also have a page detailing the [Terminology](/terminology.html)
+We also have a page detailing the [Terminology]
 
 <div style="width:640px" id="__ss_4853323"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/mcollective/mcollective-message-flow-terminology-and-components" title="Architecture, Flow and Terminology">Architecture, Flow and Terminology</a></strong><object id="__sse4853323" width="640" height="532"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=messageflow-100727191919-phpapp01&rel=0&stripped_title=mcollective-message-flow-terminology-and-components" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse4853323" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=messageflow-100727191919-phpapp01&rel=0&stripped_title=mcollective-message-flow-terminology-and-components" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="532"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">webinars</a> from <a href="http://www.slideshare.net/mcollective">Marionette Collective</a>.</div></div>
 <a name="writing_agents">&nbsp;</a>
@@ -65,8 +69,7 @@ How to write an Agent, DDL and Client
 -------------------------------------
 Writing agents are easy, we have good documentation that can be used as a reference, [this
 video](http://blip.tv/file/3808928) should show you how to tie it all together though.
-See the [SimpleRPC Introduction](http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction)
-for reference wiki pages after viewing this video.
+See the [SimpleRPC Introduction][SimpleRPCIntroduction] for reference wiki pages after viewing this video.
 
 <embed src="http://blip.tv/play/hfMOgenSZAA" type="application/x-shockwave-flash" width="640" 
 height="388" allowscriptaccess="always" allowfullscreen="true"></embed>
@@ -76,8 +79,7 @@ The SimpleRPC DDL
 -----------------
 The Data Definition Lanauge helps your clients produce more user friendly output, it ensures
 input gets validated, shows online help and enable dynamic generation of user interfaces.
-The [DDL](http://code.google.com/p/mcollective/wiki/SimpleRPCDDL) wiki page gives more
-information once you've watched this video.
+The [DDL] wiki page gives more information once you've watched this video.
 
 <embed src="http://blip.tv/play/hfMOgemKNAA" type="application/x-shockwave-flash" width="640" 
 height="424" allowscriptaccess="always" allowfullscreen="true"></embed>
