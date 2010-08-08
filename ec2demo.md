@@ -38,7 +38,9 @@ Starting main node
 ------------------
 To start the main node you need to provide some user data:
 
-    mcollective=server
+{% highlight ini %}
+mcollective=server
+{% endhighlight %}
 
 and then once it's up you should run the *start-mcollective-demo.rb* 
 as root to bootstrap the first node, it'll provide user data that you should then give 
