@@ -3,15 +3,15 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>MCollective - {{ page.title }}</title>
-<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">	
-<link rel="stylesheet" href="css/mcollective.css" type="text/css" media="screen, projection">	
-<link rel="stylesheet" href="css/syntax.css" type="text/css" media="screen, projection">	
+<link rel="stylesheet" href="/blueprint/screen.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/blueprint/print.css" type="text/css" media="print">	
+<link rel="stylesheet" href="/css/mcollective.css" type="text/css" media="screen, projection">	
+<link rel="stylesheet" href="/css/syntax.css" type="text/css" media="screen, projection">	
 <!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
 </head>
 <body>
 <div class="container">
-	<div class="span-24 last ">
+	<div class="span-24 last" id="topheader">
 		<h1>The Marionette Collective</h1>
 	</div>
 	<div class="span-19 border">
@@ -68,6 +68,7 @@
 		Copyright 2010 <a href="http://www.devco.net/">R.I.Pienaar</a>.
 	</div>
 </div>
+{% if page.disqus %}
 <script type="text/javascript">
 var disqus_shortname = 'mcollective';
 (function () {
@@ -76,5 +77,6 @@ var disqus_shortname = 'mcollective';
   (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 }());
 </script>
+{% endif %}
 </body>
 </html>

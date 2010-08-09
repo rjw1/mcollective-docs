@@ -2,7 +2,7 @@
 layout: mcollective
 title: Overview
 ---
-[Introduction]: /introduction.html
+[Introduction]: /introduction/
 
 Overview
 --------
