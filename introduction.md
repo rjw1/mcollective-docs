@@ -1,6 +1,7 @@
 ---
 layout: mcollective
 title: Introduction
+disqus: true
 ---
 [Func]: https://fedorahosted.org/func/
 [Fabric]: http://fabfile.org/

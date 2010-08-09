@@ -1,6 +1,7 @@
 ---
 layout: mcollective
 title: Screen Casts
+disqus: true
 ---
 [blip]: http://mcollective.blip.tv/
 [slideshare]: http://www.slideshare.net/mcollective

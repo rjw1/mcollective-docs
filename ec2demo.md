@@ -1,6 +1,7 @@
 ---
 layout: mcollective
 title: EC2 Demo
+disqus: true
 ---
 [Amazon Console]: https://console.aws.amazon.com/ec2/
 [Puppet based Service]: http://code.google.com/p/mcollective-plugins/wiki/AgentService

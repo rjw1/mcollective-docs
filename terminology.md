@@ -1,6 +1,7 @@
 ---
 layout: mcollective
 title: Terminology
+disqus: true
 ---
 [Software_agent]: http://en.wikipedia.org/wiki/Software_agent
 [Plugin]: http://en.wikipedia.org/wiki/Plugin
