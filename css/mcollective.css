@@ -25,4 +25,7 @@ th+th { border-left: 1px solid #CCC; }
 td { border-top: 1px dotted #CCC; padding: 0 0.5em; }
 td+td { border-left: 1px dotted #CCC; }
 
+.highlight {overflow: auto; }
 code { font-size: 0.8em; }
+
+
