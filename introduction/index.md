@@ -52,8 +52,7 @@ To get an immediate feel for what I am on about you can look at some of the vide
 [Screencasts] page and then keep reading below for further info and links.  We've also created an [Amazon EC2 based demo]
 where you can launch as many instances as you want to see how it behaves first hand.
 
-What is MCollective and what does it allow you to do
-----------------------------------------------------
+### What is MCollective and what does it allow you to do
 
  * Interact with small to very large clusters of servers
  * Use a [broadcast paradigm] for request distribution].  All servers get all requests at the same time, requests have 
@@ -74,8 +73,7 @@ What is MCollective and what does it allow you to do
  * Re-use the ability of middleware to do [clustering, routing and network isolation][ActiveMQClusters]
    to realize secure and scalable setups.
 
-Pluggable Core
---------------
+### Pluggable Core
 We aim to provide a stable core framework that allows you to build it out into a system that meets 
 your own needs, we are pluggable in the following areas:
 
@@ -90,8 +88,7 @@ your own needs, we are pluggable in the following areas:
 
 MCollective is licensed under the Apache 2 license.
 
-Next Steps and Further Reading
-------------------------------
+### Next Steps and Further Reading
 
 Introductory and Tutorial Pages:
  * See it in action in our [Screencasts]
@@ -103,8 +100,7 @@ Introductory and Tutorial Pages:
  * The author has written [several blog posts][devco] about mcollective.
  * Subscribe and post questions to the [mailing list][mcollective-users].
  
-Internal References and Developer Docs
---------------------------------------
+### Internal References and Developer Docs
  * Finding it hard to do something complex with Simple RPC? See [WritingAgents] for what lies underneath
  * Role based security, authentication and authorization using [ActiveMQ]
  * Structure of [Request and Reply][MessageFormat] messages
