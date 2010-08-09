@@ -14,32 +14,21 @@
 	<div class="span-24 last" id="topheader">
 		<h1>The Marionette Collective</h1>
 	</div>
+	<div class="span-2">
+		&nbsp;
+	</div>
+	<div class="span-22 last" id="topsubheader">
+		<h4>A modern scalable datacenter orchastration framework</h4>
+	</div>
 	<div class="span-19 border">
 		<div id="topbar">
-			<div class="span-3 large border" id="topbar">
-				<a href="/">Home</a>
-			</div>
-			<div class="span-3 large border">
-				<a href="http://code.google.com/p/mcollective/w/list">Wiki</a>
-			</div>
-			<div class="span-3 large border">
-				<a href="http://code.google.com/p/mcollective/issues/list">Issue Tracker</a>
-			</div>
-			<div class="span-3 large border">
-				<a href="http://github.com/mcollective">GitHub</a>
-			</div>
-			<div class="span-3 large border">
-				<a href="http://code.google.com/p/mcollective/downloads/list">Downloads</a>
-			</div>
-			<div class="span-3 large last">
-				<a href="http://groups.google.com/group/mcollective-users">User List</a>
-			</div>
+		{% include main_menu.html %}
 		</div>
 		<div class="span-18 last" id="text">
 			{{ content }}
 		</div>
+		{% if page.disqus %}
 		<div class="span-18 last" id="disqus">
-			{% if page.disqus %}
 				<div id="disqus_thread"></div>
 				<script type="text/javascript">
 				  /**
@@ -53,8 +42,8 @@
 				</script>
 				<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=mcollective">comments powered by Disqus.</a></noscript>
 				<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-			{% endif %}
 		</div>
+		{% endif %}
 	</div>
 	
 	<div class="span-4 last" id="sidebar">
