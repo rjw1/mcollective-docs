@@ -1,5 +1,5 @@
 ---
-layout: ondieting
+layout: mcollective
 title: Screen Casts
 ---
 [blip]: http://mcollective.blip.tv/

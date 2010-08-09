@@ -1,5 +1,5 @@
 ---
-layout: ondieting
+layout: mcollective
 title: EC2 Demo
 ---
 [Amazon Console]: https://console.aws.amazon.com/ec2/

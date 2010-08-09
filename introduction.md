@@ -1,5 +1,5 @@
 ---
-layout: ondieting
+layout: mcollective
 title: Introduction
 ---
 [Func]: https://fedorahosted.org/func/

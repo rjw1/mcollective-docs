@@ -1,0 +1,13 @@
+#text {border-top:1px solid #eee; padding-top: 20px; font-size:1.1em;}
+#sidebar h3 {font-size:20px; font-weight:normal; margin:24px 0 8px 0;}
+#sidebar ul {margin:0px; padding:0px;}
+#sidebar li {list-style:none; padding:1px 0 1px 12px; background:url(/images/mcollective/li.png) 0px 8px no-repeat;}
+#sidebar a {color:#CC385E; text-decoration:none;}
+#sidebar a:hover {color:#7F2138;}
+
+#topbar a {color:#CC385E; text-decoration:none;}
+#topbar a:hover {color:#7F2138;}
+
+#footer {text-align:center; font-size:0.9em; margin: 20px 0 15px 0;}
+#footer a {color:#CC385E; text-decoration:none;}
+#footer a:hover {color:#7F2138;}

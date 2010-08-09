@@ -1,5 +1,5 @@
 ---
-layout: ondieting
+layout: mcollective
 title: Overview
 ---
 [Introduction]: /introduction.html

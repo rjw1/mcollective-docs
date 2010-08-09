@@ -1,5 +1,5 @@
 ---
-layout: ondieting
+layout: mcollective
 title: Terminology
 ---
 [Software_agent]: http://en.wikipedia.org/wiki/Software_agent

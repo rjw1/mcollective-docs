@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>MCollective - {{ page.title }}</title>
+<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">	
+<link rel="stylesheet" href="css/mcollective.css" type="text/css" media="screen, projection">	
+<link rel="stylesheet" href="css/syntax.css" type="text/css" media="screen, projection">	
+<!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+</head>
+<body>
+<div class="container">
+	<div class="span-24 last ">
+		<h1>The Marionette Collective</h1>
+	</div>
+	<div class="span-19 border">
+		<div id="topbar">
+			<div class="span-3 large border" id="topbar">
+				<a href="/">Home</a>
+			</div>
+			<div class="span-3 large border">
+				<a href="http://code.google.com/p/mcollective/w/list">Wiki</a>
+			</div>
+			<div class="span-3 large border">
+				<a href="http://code.google.com/p/mcollective/issues/list">Issue Tracker</a>
+			</div>
+			<div class="span-3 large border">
+				<a href="http://github.com/mcollective">GitHub</a>
+			</div>
+			<div class="span-3 large border">
+				<a href="http://code.google.com/p/mcollective/downloads/list">Downloads</a>
+			</div>
+			<div class="span-3 large last">
+				<a href="http://groups.google.com/group/mcollective-users">User List</a>
+			</div>
+		</div>
+		<div class="span-18 last" id="text">
+			{{ content }}
+		</div>
+	</div>
+	
+	<div class="span-4 last" id="sidebar">
+		{% include news.html %}
+		{% include overview_sidebar.html %}
+		{% include reference_sidebar.html %}
+		{% include writing_agents_sidebar.html %}
+		{% include consultation.html %}
+	</div>
+	<div class="span-24 last" id="footer">
+		Copyright 2010 <a href="http://www.devco.net/">R.I.Pienaar</a>.
+	</div>
+</div>
+</body>
+</html>
