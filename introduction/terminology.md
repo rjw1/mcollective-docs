@@ -7,8 +7,8 @@ disqus: true
 [Plugin]: http://en.wikipedia.org/wiki/Plugin
 [Publish_subscribe]: http://en.wikipedia.org/wiki/Publish_subscribe
 [Apache ActiveMQ]: http://activemq.apache.org/
-[SimpleRPCAgents]: http://code.google.com/p/mcollective/wiki/SimpleRPCAgents
-[SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
+[SimpleRPCAgents]: /simplerpc/agents.html
+[SimpleRPCIntroduction]: /simplerpc/
 [WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
 [Registration]: /reference/plugins/registration.html
 

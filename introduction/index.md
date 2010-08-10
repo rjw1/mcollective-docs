@@ -17,7 +17,7 @@ disqus: true
 [WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
 [NodeReports]: /reference/ui/nodereports.html
 [PluginsSite]: http://code.google.com/p/mcollective-plugins/
-[SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
+[SimpleRPCIntroduction]: /simplerpc/
 [SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
 [SSLSecurityPlugin]: /reference/plugins/security_ssl.html
 [SimpleRPCAuthorization]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization

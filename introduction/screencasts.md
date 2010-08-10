@@ -7,7 +7,7 @@ disqus: true
 [slideshare]: http://www.slideshare.net/mcollective
 [ec2demo]: /ec2demo.html
 [Terminology]: /terminology.html
-[SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
+[SimpleRPCIntroduction]: /simplerpc/
 [DDL]: http://code.google.com/p/mcollective/wiki/SimpleRPCDDL
 
 Screen Casts

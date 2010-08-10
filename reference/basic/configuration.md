@@ -39,7 +39,7 @@ The server configuration file should be root only readable
 <tr><td>registration</td><td>Agentlist</td><td><a href="/reference/plugins/registration.html">Registration</a> plugin to use</td></tr>
 <tr><td>registerinterval</td><td>120</td><td>How many seconds to sleep between registration messages, setting this to zero disables registration</td></tr>
 <tr><td>classesfile</td><td>/var/lib/puppet/classes.txt</td><td>Where to find a list of classes configured by your configuration management system</td></tr>
-<tr><td>rpcaudit</td><td>1</td><td>Enables <a href="http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction">SimpleRPCIntroduction</a> auditing</td></tr>
+<tr><td>rpcaudit</td><td>1</td><td>Enables <a href="/simplerpc/">SimpleRPCIntroduction</a> auditing</td></tr>
 <tr><td>rpcauditprovider</td><td>Logfile</td><td>Enables auditing using <em>MCollective::Audit::Logfile</em></td></tr>
 <tr><td>plugin.discovery.timeout</td><td>10</td><td>Sets the timeout for the discovery agent, useful if facts are very slow</td></tr>
 <tr><td>rpcauthorization</td><td>1</td><td>Enables <a href="http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization">SimpleRPCAuthorization</a> globally</td></tr>

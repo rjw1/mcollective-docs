@@ -15,7 +15,7 @@ disqus: true
 [ActiveMQSamples]: http://github.com/mcollective/marionette-collective/tree/master/ext/activemq/examples/
 [ConfigurationReference]: /reference/basic/configuration.html
 [Terminology]: /introduction/terminology.html
-[SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
+[SimpleRPCIntroduction]: /simplerpc/
 [ControllingTheDaemon]: http://code.google.com/p/mcollective/wiki/ControllingTheDaemon
 [SSLSecurityPlugin]: /reference/plugins/security_ssl.html
 [ConnectorStomp]: http://code.google.com/p/mcollective/wiki/ConnectorStomp
