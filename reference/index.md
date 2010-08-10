@@ -14,6 +14,7 @@ Index to basic users documentation.
  1. [Getting Started](basic/gettingstarted.html)
  1. [Configuration Guide](basic/configuration.html)
  1. [Controlling mcollectived](basic/daemon.html)
+ 1. [Message Flow](basic/messageflow.html)
 
 
 <h4 class="noline">User Interface </h4>

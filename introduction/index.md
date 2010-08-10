@@ -9,7 +9,7 @@ disqus: true
 [Publish Subscribe Middleware]: http://en.wikipedia.org/wiki/Publish/subscribe
 [Screencasts]: /screencasts.html
 [Amazon EC2 based demo]: /ec2demo.html
-[broadcast paradigm]: http://code.google.com/p/mcollective/wiki/MessageFlow
+[broadcast paradigm]: /reference/basic/messageflow.html
 [UsingWithPuppet]: http://code.google.com/p/mcollective/wiki/UsingWithPuppet
 [UsingWithChef]: http://code.google.com/p/mcollective/wiki/UsingWithChef
 [Facter]: http://code.google.com/p/mcollective-plugins/wiki/FactsRLFacter
