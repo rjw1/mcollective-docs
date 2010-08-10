@@ -24,3 +24,4 @@ Index to basic users documentation.
 
  1. [Registration](plugins/registration.html)
  1. [OpenSSL based Security Plugin](plugins/security_ssl.html)
+ 1. [Fact Source Plugins](plugins/facts.html)

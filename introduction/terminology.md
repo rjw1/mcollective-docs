@@ -9,7 +9,7 @@ disqus: true
 [Apache ActiveMQ]: http://activemq.apache.org/
 [SimpleRPCAgents]: /simplerpc/agents.html
 [SimpleRPCIntroduction]: /simplerpc/
-[WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
+[WritingFactsPlugins]: /reference/plugins/facts.html
 [Registration]: /reference/plugins/registration.html
 
 Terminology

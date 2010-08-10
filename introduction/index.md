@@ -14,7 +14,7 @@ disqus: true
 [UsingWithChef]: http://code.google.com/p/mcollective/wiki/UsingWithChef
 [Facter]: http://code.google.com/p/mcollective-plugins/wiki/FactsRLFacter
 [Ohai]: http://code.google.com/p/mcollective-plugins/wiki/FactsOpsCodeOhai
-[WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
+[WritingFactsPlugins]: /reference/plugins/facts.html
 [NodeReports]: /reference/ui/nodereports.html
 [PluginsSite]: http://code.google.com/p/mcollective-plugins/
 [SimpleRPCIntroduction]: /simplerpc/
