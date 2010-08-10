@@ -8,7 +8,7 @@ disqus: true
 [ec2demo]: /ec2demo.html
 [Terminology]: /terminology.html
 [SimpleRPCIntroduction]: /simplerpc/
-[DDL]: http://code.google.com/p/mcollective/wiki/SimpleRPCDDL
+[DDL]: /simplerpc/ddl.html
 
 Screen Casts
 ------------
