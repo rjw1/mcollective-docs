@@ -1,12 +1,13 @@
 ---
 layout: mcollective
 title: SimpleRPC Introduction
+disqus: true
 ---
 [WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
 [SimpleRPCAgents]: /simplerpc/agents.html
 [SimpleRPCClients]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients
 [SimpleRPCAuditing]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuditing
-[SimpleRPCAuthorization]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization
+[SimpleRPCAuthorization]: /simplerpc/authorization.html
 [SimpleRPCDDL]: /simplerpc/ddl.html
 [WritingAgentsScreenCast]: http://mcollective.blip.tv/file/3808928/
 [RestGateway]: http://github.com/mcollective/marionette-collective/blob/master/ext/mc-rpc-restserver.rb

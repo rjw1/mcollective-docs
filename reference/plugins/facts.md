@@ -3,7 +3,7 @@ layout: mcollective
 title: Fact Plugins
 disqus: true
 ---
-[SimpleRPCAuthorization]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization
+[SimpleRPCAuthorization]: /simplerpc/authorization.html
 [Registration]: registration.html
 
 Writing Fact Plugins

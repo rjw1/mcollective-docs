@@ -42,7 +42,7 @@ The server configuration file should be root only readable
 <tr><td>rpcaudit</td><td>1</td><td>Enables <a href="/simplerpc/">SimpleRPCIntroduction</a> auditing</td></tr>
 <tr><td>rpcauditprovider</td><td>Logfile</td><td>Enables auditing using <em>MCollective::Audit::Logfile</em></td></tr>
 <tr><td>plugin.discovery.timeout</td><td>10</td><td>Sets the timeout for the discovery agent, useful if facts are very slow</td></tr>
-<tr><td>rpcauthorization</td><td>1</td><td>Enables <a href="http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization">SimpleRPCAuthorization</a> globally</td></tr>
+<tr><td>rpcauthorization</td><td>1</td><td>Enables <a href="/simplerpc/authorization.html">SimpleRPCAuthorization</a> globally</td></tr>
 <tr><td>rpcauthprovider</td><td>action_policy</td><td>Use the <em>MCollective::Util::ActionPolicy</em> plugin to manage authorization</td></tr>
 </table>
 

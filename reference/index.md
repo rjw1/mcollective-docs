@@ -1,7 +1,6 @@
 ---
 layout: mcollective
 title: Users Documentation
-disqus: true
 ---
 
 Users Documentation and References

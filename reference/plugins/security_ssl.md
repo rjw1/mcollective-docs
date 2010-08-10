@@ -3,7 +3,7 @@ layout: mcollective
 title: SSL Security
 disqus: true
 ---
-[SimpleRPCAuthorization]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization
+[SimpleRPCAuthorization]: /simplerpc/authorization.html
 [Registration]: registration.html
 
 OpenSSL based Security Plugin

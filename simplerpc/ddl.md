@@ -1,6 +1,7 @@
 ---
 layout: mcollective
 title: SimpleRPC DDL
+disqus: true
 ---
 [WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
 [SimpleRPCClients]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients

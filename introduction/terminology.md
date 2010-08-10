@@ -11,6 +11,7 @@ disqus: true
 [SimpleRPCIntroduction]: /simplerpc/
 [WritingFactsPlugins]: /reference/plugins/facts.html
 [Registration]: /reference/plugins/registration.html
+[SimpleRPCAuthorization]: /simplerpc/authorization.html
 
 Terminology
 -----------
@@ -94,4 +95,4 @@ logged to disk or other similar action
 
 ### Authorization
 In relation to SimpleRPC authorization is a processes whereby requests get allowed or denied 
-based on some identifying information of the requester 
+based on some identifying information of the requester.  See [SimpleRPCAuthorization].

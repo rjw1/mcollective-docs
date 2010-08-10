@@ -20,7 +20,7 @@ disqus: true
 [SimpleRPCIntroduction]: /simplerpc/
 [SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
 [SSLSecurityPlugin]: /reference/plugins/security_ssl.html
-[SimpleRPCAuthorization]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization
+[SimpleRPCAuthorization]: /simplerpc/authorization.html
 [SimpleRPCAuditing]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuditing
 [ActiveMQClusters]: http://code.google.com/p/mcollective/wiki/ActiveMQClusters
 [JSONSchema]: http://json-schema.org/
