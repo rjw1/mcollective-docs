@@ -10,7 +10,7 @@ disqus: true
 [Screencasts]: /screencasts.html
 [Amazon EC2 based demo]: /ec2demo.html
 [broadcast paradigm]: /reference/basic/messageflow.html
-[UsingWithPuppet]: http://code.google.com/p/mcollective/wiki/UsingWithPuppet
+[UsingWithPuppet]: /reference/integration/puppet.html
 [UsingWithChef]: http://code.google.com/p/mcollective/wiki/UsingWithChef
 [Facter]: http://code.google.com/p/mcollective-plugins/wiki/FactsRLFacter
 [Ohai]: http://code.google.com/p/mcollective-plugins/wiki/FactsOpsCodeOhai
