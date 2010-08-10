@@ -16,6 +16,10 @@ Index to basic users documentation.
  1. [Controlling mcollectived](basic/daemon.html)
 
 
+<h4 class="noline">User Interface </h4>
+
+ 1. [Node Reports](ui/nodereports.html)
+
 <h4 class="noline">Plugins </h4>
 
  1. [Registration](plugins/registration.html)

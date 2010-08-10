@@ -15,7 +15,7 @@ disqus: true
 [Facter]: http://code.google.com/p/mcollective-plugins/wiki/FactsRLFacter
 [Ohai]: http://code.google.com/p/mcollective-plugins/wiki/FactsOpsCodeOhai
 [WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
-[NodeReports]: http://code.google.com/p/mcollective/wiki/NodeReports
+[NodeReports]: /reference/ui/nodereports.html
 [PluginsSite]: http://code.google.com/p/mcollective-plugins/
 [SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
 [SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
