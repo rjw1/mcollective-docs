@@ -36,7 +36,7 @@ The server configuration file should be root only readable
 <tr><th><b>Key</b></th><th><b>Sample</b></th><th><b>Description</b></th></tr>
 <tr><td>daemonize</td><td>1</td><td>Runs the server in the background</td></tr>
 <tr><td>factsource</td><td>Facter</td><td>Which fact plugin to use</td></tr>
-<tr><td>registration</td><td>Agentlist</td><td>Registration plugin to use</td></tr>
+<tr><td>registration</td><td>Agentlist</td><td><a href="/reference/registration.html">Registration</a> plugin to use</td></tr>
 <tr><td>registerinterval</td><td>120</td><td>How many seconds to sleep between registration messages, setting this to zero disables registration</td></tr>
 <tr><td>classesfile</td><td>/var/lib/puppet/classes.txt</td><td>Where to find a list of classes configured by your configuration management system</td></tr>
 <tr><td>rpcaudit</td><td>1</td><td>Enables <a href="http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction">SimpleRPCIntroduction</a> auditing</td></tr>

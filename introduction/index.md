@@ -24,7 +24,7 @@ disqus: true
 [SimpleRPCAuditing]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuditing
 [ActiveMQClusters]: http://code.google.com/p/mcollective/wiki/ActiveMQClusters
 [JSONSchema]: http://json-schema.org/
-[Registration]: http://code.google.com/p/mcollective/wiki/Registration
+[Registration]: /reference/registration.html
 [GettingStarted]: http://code.google.com/p/mcollective/wiki/GettingStarted
 [Configuration]: http://code.google.com/p/mcollective/wiki/ConfigurationReference
 [Terminology]: /terminology.html

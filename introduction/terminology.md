@@ -10,6 +10,7 @@ disqus: true
 [SimpleRPCAgents]: http://code.google.com/p/mcollective/wiki/SimpleRPCAgents
 [SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
 [WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
+[Registration]: /reference/registration.html
 
 Terminology
 -----------
@@ -71,7 +72,7 @@ your own in [WritingFactsPlugins]
 
 ### Registration
 Servers can send regular messages to an agent called *registration*.  The code that sends the 
-registration messages are plugins of the type *MCollective::Registration*
+registration messages are plugins of the type *MCollective::Registration*.  See [Registration].
 
 ### Security
 A plugin of the type *MCollective::Security* that takes care of encryption, authentication 
