@@ -18,7 +18,7 @@ disqus: true
 [SimpleRPCIntroduction]: /simplerpc/
 [ControllingTheDaemon]: http://code.google.com/p/mcollective/wiki/ControllingTheDaemon
 [SSLSecurityPlugin]: /reference/plugins/security_ssl.html
-[ConnectorStomp]: http://code.google.com/p/mcollective/wiki/ConnectorStomp
+[ConnectorStomp]: /reference/plugins/connector_stomp.html
 [MessageFlowCast]: /introduction/screencasts.html#message_flow
 [Plugins]: http://code.google.com/p/mcollective-plugins/
 

@@ -17,11 +17,15 @@ Index to basic users documentation.
  1. [Message Flow](basic/messageflow.html)
 
 
-<h4 class="noline">User Interface </h4>
+<h4 class="noline">User Interface</h4>
 
  1. [Node Reports](ui/nodereports.html)
 
-<h4 class="noline">Plugins </h4>
+<h4 class="noline">Integration</h4>
+
+ 1. [Using with Puppet](integration/puppet.html)
+
+<h4 class="noline">Plugins</h4>
 
  1. [Registration](plugins/registration.html)
  1. [OpenSSL based Security Plugin](plugins/security_ssl.html)
