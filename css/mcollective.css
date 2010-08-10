@@ -2,6 +2,7 @@
 #bodycontent h2 {text-decoration:underline;}
 #bodycontent h3 {text-decoration:underline;}
 #bodycontent h4 {text-decoration:underline;}
+#bodycontent .noline {text-decoration:none;}
 
 #disqus {border-top:1px solid #eee; padding-top: 20px;}
 #topheader {padding-top: 20px;}
