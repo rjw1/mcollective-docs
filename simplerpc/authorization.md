@@ -5,7 +5,7 @@ disqus: true
 ---
 [SimpleRPCIntroduction]: index.html
 [SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
-[SimpleRPCAuditing]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuditing
+[SimpleRPCAuditing]: /simplerpc/auditing.html
 [ActionPolicy]: http://code.google.com/p/mcollective-plugins/wiki/ActionPolicy
 
 SimpleRPC Authorization

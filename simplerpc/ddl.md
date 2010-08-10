@@ -6,8 +6,8 @@ disqus: true
 [WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
 [SimpleRPCClients]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients
 [ResultsandExceptions]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients#Results_and_Exceptions
-[SimpleRPCAuditing]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuditing
-[SimpleRPCAuthorization]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization
+[SimpleRPCAuditing]: /simplerpc/auditing.html
+[SimpleRPCAuthorization]: /simplerpc/authorization.html
 [SimpleRPCDDL]: /simplerpc/ddl.html
 [WritingAgentsScreenCast]: http://mcollective.blip.tv/file/3808928/
 [DDLScreenCast]: http://mcollective.blip.tv/file/3799653
