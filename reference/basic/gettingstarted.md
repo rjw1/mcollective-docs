@@ -13,7 +13,7 @@ disqus: true
 [SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
 [ActiveMQClustering]: http://www.devco.net/archives/2009/11/10/activemq_clustering.php
 [ActiveMQSamples]: http://github.com/mcollective/marionette-collective/tree/master/ext/activemq/examples/
-[ConfigurationReference]: /reference/configuration.html
+[ConfigurationReference]: /reference/basic/configuration.html
 [Terminology]: /introduction/terminology.html
 [SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
 [ControllingTheDaemon]: http://code.google.com/p/mcollective/wiki/ControllingTheDaemon

@@ -10,7 +10,7 @@ disqus: true
 [SimpleRPCAgents]: http://code.google.com/p/mcollective/wiki/SimpleRPCAgents
 [SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
 [WritingFactsPlugins]: http://code.google.com/p/mcollective/wiki/WritingFactsPlugins
-[Registration]: /reference/registration.html
+[Registration]: /reference/plugins/registration.html
 
 Terminology
 -----------

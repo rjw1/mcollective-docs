@@ -10,7 +10,7 @@ disqus: true
 [Meta Registration]: http://code.google.com/p/mcollective-plugins/wiki/RegistrationMetaData
 [URL Tester]: http://code.google.com/p/mcollective-plugins/wiki/AgentUrltest
 [Discovery Aware SSH]: http://code.google.com/p/mcollective-plugins/wiki/UtilitiesSSH
-[Registration]: /reference/registration.html
+[Registration]: /reference/plugins/registration.html
 [Registration Monitor]: http://code.google.com/p/mcollective-plugins/wiki/AgentRegistrationMonitor
 
 EC2 Demo

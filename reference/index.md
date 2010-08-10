@@ -11,11 +11,11 @@ Index to basic users documentation.
 
 <h4 class="noline">Basic Operations and Configuration</h4>
 
- 1. [Getting Started](gettingstarted.html)
- 1. [Configuration Guide](configuration.html)
- 1. [Controlling mcollectived](daemon.html)
+ 1. [Getting Started](basic/gettingstarted.html)
+ 1. [Configuration Guide](basic/configuration.html)
+ 1. [Controlling mcollectived](basic/daemon.html)
 
 
 <h4 class="noline">Plugins </h4>
 
- 1. [Registration](registration.html)
+ 1. [Registration](plugins/registration.html)
