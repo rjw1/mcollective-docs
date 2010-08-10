@@ -24,9 +24,11 @@ Index to basic users documentation.
 <h4 class="noline">Integration</h4>
 
  1. [Using with Puppet](integration/puppet.html)
+ 1. [Using with Chef](integration/chef.html)
 
 <h4 class="noline">Plugins</h4>
 
  1. [Registration](plugins/registration.html)
  1. [OpenSSL based Security Plugin](plugins/security_ssl.html)
  1. [Fact Source Plugins](plugins/facts.html)
+ 1. [Stomp Connector](plugins/connector_stomp.html)

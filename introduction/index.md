@@ -11,7 +11,7 @@ disqus: true
 [Amazon EC2 based demo]: /ec2demo.html
 [broadcast paradigm]: /reference/basic/messageflow.html
 [UsingWithPuppet]: /reference/integration/puppet.html
-[UsingWithChef]: http://code.google.com/p/mcollective/wiki/UsingWithChef
+[UsingWithChef]: /reference/integration/chef.html
 [Facter]: http://code.google.com/p/mcollective-plugins/wiki/FactsRLFacter
 [Ohai]: http://code.google.com/p/mcollective-plugins/wiki/FactsOpsCodeOhai
 [WritingFactsPlugins]: /reference/plugins/facts.html
