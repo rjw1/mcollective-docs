@@ -19,3 +19,4 @@ Index to basic users documentation.
 <h4 class="noline">Plugins </h4>
 
  1. [Registration](plugins/registration.html)
+ 1. [OpenSSL based Security Plugin](plugins/security_ssl.html)

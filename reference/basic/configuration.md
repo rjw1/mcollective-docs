@@ -26,7 +26,7 @@ Configuration is a simple *key = val* style configuration file.
 <tr><td>max_log_size</td><td>10240</td><td>Max size in bytes for log files before rotation happens</td></tr>
 <tr><td>libdir</td><td>/usr/libexec/mcollective</td><td>Where to look for plugins</td></tr>
 <tr><td>connector</td><td>Stomp</td><td>Which <em>connector</em> plugin to use for communication</td></tr>
-<tr><td>securityprovider</td><td>Psk</td><td>Which security model to use, see <a href="http://code.google.com/p/mcollective/wiki/SSLSecurityPlugin">SSLSecurityPlugin</a> for details on configuring SSL</td></tr>
+<tr><td>securityprovider</td><td>Psk</td><td>Which security model to use, see <a href="/reference/plugins/security_ssl.html">SSL Security Plugin</a> for details on configuring SSL</td></tr>
 </table>
 
 ### Server Configuration

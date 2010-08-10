@@ -19,7 +19,7 @@ disqus: true
 [PluginsSite]: http://code.google.com/p/mcollective-plugins/
 [SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
 [SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
-[SSLSecurityPlugin]: http://code.google.com/p/mcollective/wiki/SSLSecurityPlugin
+[SSLSecurityPlugin]: /reference/plugins/security_ssl.html
 [SimpleRPCAuthorization]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuthorization
 [SimpleRPCAuditing]: http://code.google.com/p/mcollective/wiki/SimpleRPCAuditing
 [ActiveMQClusters]: http://code.google.com/p/mcollective/wiki/ActiveMQClusters

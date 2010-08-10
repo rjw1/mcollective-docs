@@ -17,7 +17,7 @@ disqus: true
 [Terminology]: /introduction/terminology.html
 [SimpleRPCIntroduction]: http://code.google.com/p/mcollective/wiki/SimpleRPCIntroduction
 [ControllingTheDaemon]: http://code.google.com/p/mcollective/wiki/ControllingTheDaemon
-[SSLSecurityPlugin]: http://code.google.com/p/mcollective/wiki/SSLSecurityPlugin
+[SSLSecurityPlugin]: /reference/plugins/security_ssl.html
 [ConnectorStomp]: http://code.google.com/p/mcollective/wiki/ConnectorStomp
 [MessageFlowCast]: /introduction/screencasts.html#message_flow
 [Plugins]: http://code.google.com/p/mcollective-plugins/
