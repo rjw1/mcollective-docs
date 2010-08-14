@@ -22,7 +22,7 @@ disqus: true
 [SSLSecurityPlugin]: /reference/plugins/security_ssl.html
 [SimpleRPCAuthorization]: /simplerpc/authorization.html
 [SimpleRPCAuditing]: /simplerpc/auditing.html
-[ActiveMQClusters]: http://code.google.com/p/mcollective/wiki/ActiveMQClusters
+[ActiveMQClusters]: /reference/integration/activemq_clusters.html
 [JSONSchema]: http://json-schema.org/
 [Registration]: /reference/plugins/registration.html
 [GettingStarted]: http://code.google.com/p/mcollective/wiki/GettingStarted

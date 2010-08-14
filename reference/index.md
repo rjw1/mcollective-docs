@@ -24,6 +24,7 @@ Index to basic users documentation.
 
  1. [Using with Puppet](integration/puppet.html)
  1. [Using with Chef](integration/chef.html)
+ 1. [ActiveMQ Clusters](integration/activemq_clusters.html)
 
 <h4 class="noline">Plugins</h4>
 
