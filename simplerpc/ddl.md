@@ -4,7 +4,7 @@ title: SimpleRPC DDL
 disqus: true
 ---
 [WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
-[SimpleRPCClients]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients
+[SimpleRPCClients]: /simplerpc/clients.html
 [ResultsandExceptions]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients#Results_and_Exceptions
 [SimpleRPCAuditing]: /simplerpc/auditing.html
 [SimpleRPCAuthorization]: /simplerpc/authorization.html

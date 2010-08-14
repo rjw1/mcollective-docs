@@ -5,7 +5,7 @@ disqus: true
 ---
 [WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
 [SimpleRPCAgents]: /simplerpc/agents.html
-[SimpleRPCClients]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients
+[SimpleRPCClients]: /simplerpc/clients.html
 [SimpleRPCAuditing]: /simplerpc/auditing.html
 [SimpleRPCAuthorization]: /simplerpc/authorization.html
 [SimpleRPCDDL]: /simplerpc/ddl.html

@@ -15,6 +15,8 @@ disqus: true
 [SchedulingPuppet]: http://www.devco.net/archives/2010/03/17/scheduling_puppet_with_mcollective.php
 [ManagingPuppetd]: http://www.devco.net/archives/2009/11/30/managing_puppetd_with_mcollective.php
 [CloudBootstrap]: http://vuksan.com/blog/2010/07/28/bootstraping-your-cloud-environment-with-puppet-and-mcollective/
+[ServiceAgent]: http://code.google.com/p/mcollective-plugins/wiki/AgentService
+[PackageAgent]: http://code.google.com/p/mcollective-plugins/wiki/AgentPackage
 
 Using with Puppet
 -----------------
@@ -27,6 +29,7 @@ There are a number of community plugins related to Puppet:
  * Manage the Puppet CA, sign, list and revoke certificates - [AgentPuppetca]
  * Use the Puppet Ral to create resources on demand, a distributed *ralsh* - [AgentPuppetRal]
  * Schedule your puppetd's controlling concurrency and resource usage - [PuppetCommander]
+ * The [ServiceAgent] and [PackageAgent] use the Puppet RAL to function on many operating systems
 
 There are also several blog posts related to Puppet and MCollective:
 
