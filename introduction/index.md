@@ -31,8 +31,8 @@ disqus: true
 [devco]: http://www.devco.net/archives/tag/mcollective
 [mcollective-users]: http://groups.google.com/group/mcollective-users
 [WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
-[ActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
-[MessageFormat]: http://code.google.com/p/mcollective/wiki/MessageFormat
+[ActiveMQ]: /reference/integration/activemq_security.html
+[MessageFormat]: /reference/basic/messageformat.html
 
 Introduction
 ------------

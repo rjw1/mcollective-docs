@@ -14,6 +14,7 @@ Index to basic users documentation.
  1. [Configuration Guide](basic/configuration.html)
  1. [Controlling mcollectived](basic/daemon.html)
  1. [Message Flow](basic/messageflow.html)
+ 1. [Message Format](basic/messageformat.html)
 
 
 <h4 class="noline">User Interface</h4>
@@ -24,6 +25,7 @@ Index to basic users documentation.
 
  1. [Using with Puppet](integration/puppet.html)
  1. [Using with Chef](integration/chef.html)
+ 1. [ActiveMQ Security](integration/activemq_security.html)
  1. [ActiveMQ Clusters](integration/activemq_clusters.html)
 
 <h4 class="noline">Plugins</h4>

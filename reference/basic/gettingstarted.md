@@ -10,7 +10,7 @@ disqus: true
 [DepRPMs]: http://www.marionette-collective.org/activemq/
 [Gentoo]: http://code.google.com/p/mcollective/wiki/Gentoo
 [DebianBug]: http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=562954
-[SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
+[SecurityWithActiveMQ]: /reference/integration/activemq_security.html
 [ActiveMQClustering]: http://www.devco.net/archives/2009/11/10/activemq_clustering.php
 [ActiveMQSamples]: http://github.com/mcollective/marionette-collective/tree/master/ext/activemq/examples/
 [ConfigurationReference]: /reference/basic/configuration.html

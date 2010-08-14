@@ -3,9 +3,9 @@ layout: mcollective
 title: Message Flow
 disqus: true
 ---
-[MessageFormat]: http://code.google.com/p/mcollective/wiki/MessageFormat
+[MessageFormat]: /reference/basic/messageformat.html
 [ActiveMQClusters]: /reference/integration/activemq_clusters.html
-[SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
+[SecurityWithActiveMQ]: /reference/integration/activemq_security.html
 [ScreenCast]: /introduction/screencasts.html#message_flow
 
 Message Flow

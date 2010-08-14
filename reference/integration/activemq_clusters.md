@@ -3,11 +3,11 @@ layout: mcollective
 title: ActiveMQ Clustering
 disqus: true
 ---
-[MessageFormat]: http://code.google.com/p/mcollective/wiki/MessageFormat
+[MessageFormat]: /reference/basic/messageformat.html
 [MessageFlow]: /reference/basic/messageflow.html
 [NetworksOfBrokers]: http://activemq.apache.org/networks-of-brokers.html
 [UsingSSL]: http://activemq.apache.org/how-do-i-use-ssl.html
-[SecurityWithActiveMQ]: http://code.google.com/p/mcollective/wiki/SecurityWithActiveMQ
+[SecurityWithActiveMQ]: /reference/integration/activemq_security.html
 [SampleConfig]: http://github.com/mcollective/marionette-collective/tree/master/ext/activemq/
 
 ActiveMQ Clustering
