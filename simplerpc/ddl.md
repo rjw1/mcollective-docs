@@ -3,7 +3,7 @@ layout: mcollective
 title: SimpleRPC DDL
 disqus: true
 ---
-[WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
+[WritingAgents]: /reference/basic/basic_agent_and_client.html
 [SimpleRPCClients]: /simplerpc/clients.html
 [ResultsandExceptions]: http://code.google.com/p/mcollective/wiki/SimpleRPCClients#Results_and_Exceptions
 [SimpleRPCAuditing]: /simplerpc/auditing.html

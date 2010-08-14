@@ -30,7 +30,7 @@ disqus: true
 [Terminology]: /terminology.html
 [devco]: http://www.devco.net/archives/tag/mcollective
 [mcollective-users]: http://groups.google.com/group/mcollective-users
-[WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
+[WritingAgents]: /reference/basic/basic_agent_and_client.html
 [ActiveMQ]: /reference/integration/activemq_security.html
 [MessageFormat]: /reference/basic/messageformat.html
 

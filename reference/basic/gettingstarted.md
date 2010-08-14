@@ -16,7 +16,7 @@ disqus: true
 [ConfigurationReference]: /reference/basic/configuration.html
 [Terminology]: /introduction/terminology.html
 [SimpleRPCIntroduction]: /simplerpc/
-[ControllingTheDaemon]: http://code.google.com/p/mcollective/wiki/ControllingTheDaemon
+[ControllingTheDaemon]: /reference/basic/daemon.html
 [SSLSecurityPlugin]: /reference/plugins/security_ssl.html
 [ConnectorStomp]: /reference/plugins/connector_stomp.html
 [MessageFlowCast]: /introduction/screencasts.html#message_flow

@@ -6,6 +6,7 @@ disqus: true
 [SecurityPlugins]: http://github.com/mcollective/marionette-collective/tree/master/plugins/mcollective/security/
 [SimpleRPCIntroduction]: /simplerpc/
 [MessageFlow]: messageflow.html
+[ScreenCast]: /introduction/screencasts.html#message_flow
 
 Message Format
 --------------
@@ -17,6 +18,8 @@ At present the task of encoding and decoding messages lies with the _MCollective
 Abstracting the encoding away from the security plugins is a goal for future refactorings, till then each security plugin will need to at least conform to the following structure.  
 
 In general this is all hidden from the developers, especially if you use [Simple RPC][SimpleRPCIntroduction].  If you want to implement your own security or serialization you will need to know exactly how all of this sticks together.
+
+There is also a [screencast][ScreenCast] that shows this process and message format, recommend you watch that.
 
 ### Message Flow
 For details of the flow of messages and how requests / replies travel around the network see the [MessageFlow] page.

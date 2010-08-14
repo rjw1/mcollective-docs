@@ -15,6 +15,7 @@ Index to basic users documentation.
  1. [Controlling mcollectived](basic/daemon.html)
  1. [Message Flow](basic/messageflow.html)
  1. [Message Format](basic/messageformat.html)
+ 1. [Basic Agent and Client](basic/basic_agent_and_client.html)
 
 
 <h4 class="noline">User Interface</h4>

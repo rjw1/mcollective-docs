@@ -3,7 +3,7 @@ layout: mcollective
 title: SimpleRPC Introduction
 disqus: true
 ---
-[WritingAgents]: http://code.google.com/p/mcollective/wiki/WritingAgents
+[WritingAgents]: /reference/basic/basic_agent_and_client.html
 [SimpleRPCAgents]: /simplerpc/agents.html
 [SimpleRPCClients]: /simplerpc/clients.html
 [SimpleRPCAuditing]: /simplerpc/auditing.html
