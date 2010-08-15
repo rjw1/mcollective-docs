@@ -8,8 +8,7 @@ disqus: true
 [SimpleRPCAuditing]: /simplerpc/auditing.html
 [ActionPolicy]: http://code.google.com/p/mcollective-plugins/wiki/ActionPolicy
 
-SimpleRPC Authorization
------------------------
+## {{page.title}}
 
 As part of the [SimpleRPC][SimpleRPCIntroduction] framework we've added an authorization system that you can use to exert fine grained control over who can call agents and actions.
 

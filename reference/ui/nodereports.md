@@ -4,8 +4,7 @@ title: Node Reports
 disqus: true
 ---
 
-Node Reports
-------------
+## {{page.title}}
 
 As we have all facts, classes and agents for nodes we can do some custom reporting on all of these.
 

@@ -1,6 +1,6 @@
 ---
 layout: mcollective
-title: Overview
+title: Getting Started
 disqus: true
 ---
 [Screencasts]: /introduction/screencasts.html
@@ -22,8 +22,7 @@ disqus: true
 [MessageFlowCast]: /introduction/screencasts.html#message_flow
 [Plugins]: http://code.google.com/p/mcollective-plugins/
 
-Getting Started
----------------
+## {{page.title}}
 
 Below find a rough guide to get you going, this assumes the client and server is on the same node, but servers don't need the client code installed.
 

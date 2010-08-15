@@ -5,8 +5,7 @@ disqus: true
 ---
 [FactsOpsCodeOhai]: http://code.google.com/p/mcollective-plugins/wiki/FactsOpsCodeOhai
 
-Using With Chef
----------------
+## {{page.title}}
 
 If you're a Chef user you are supported in both facts and classes filters.
 

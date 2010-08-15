@@ -8,8 +8,8 @@ disqus: true
 [SecurityWithActiveMQ]: /reference/integration/activemq_security.html
 [ScreenCast]: /introduction/screencasts.html#message_flow
 
-Message Flow
-------------
+## {{page.title}}
+
 The diagram below shows basic message flow on a MCollective system.  There is also a [screencast][ScreenCast] that shows this process, recommend you watch that.
 
 The key thing to take away from this diagram is the broadcast paradigm that is in use, one message only leaves the client and gets broadcast to all nodes.  We'll walk you through each point below.

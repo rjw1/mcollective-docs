@@ -13,8 +13,7 @@ disqus: true
 [Registration]: /reference/plugins/registration.html
 [Registration Monitor]: http://code.google.com/p/mcollective-plugins/wiki/AgentRegistrationMonitor
 
-EC2 Demo
---------
+## {{page.title}}
 We've created an Amazon hosted demo of mcollective that can give you a quick feel 
 for how things work without all the hassle of setting up from scratch.
 

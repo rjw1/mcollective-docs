@@ -6,8 +6,7 @@ disqus: true
 [SimpleRPCIntroduction]: index.html
 [AuditCentralRPCLog]: http://code.google.com/p/mcollective-plugins/wiki/AuditCentralRPCLog
 
-SimpleRPC Auditing
-------------------
+## {{page.title}}
 
 As part of the [SimpleRPC][SimpleRPCIntroduction] framework we've added an auditing system that you can use to log all requests received into a file or even send it over mcollective to a central auditing system.  What actually happens with audit data is pluggable and you can provide your own plugins to do what you need.
 

@@ -1,6 +1,6 @@
 ---
 layout: mcollective
-title: SimpleRPC DDL
+title: SimpleRPC Data Definition Language
 disqus: true
 ---
 [WritingAgents]: /reference/basic/basic_agent_and_client.html
@@ -12,8 +12,7 @@ disqus: true
 [WritingAgentsScreenCast]: http://mcollective.blip.tv/file/3808928/
 [DDLScreenCast]: http://mcollective.blip.tv/file/3799653
 
-SimpleRPC Data Definition Language
-----------------------------------
+## {{page.title}}
 
 As with other remote procedure invocation systems SimpleRPC has a DDL that defines what remote methods are available, what inputs they take and what outputs they generate.
 

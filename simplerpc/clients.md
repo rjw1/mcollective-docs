@@ -3,13 +3,13 @@ layout: mcollective
 title: Writing SimpleRPC Clients
 disqus: true
 ---
-Writing SimpleRPC Clients
--------------------------
 [SimpleRPCIntroduction]: index.html
 [WritingAgents]: agents.html
 [WritingAgentsScreenCast]: http://mcollective.blip.tv/file/3808928/
 [RubyMixin]: http://juixe.com/techknow/index.php/2006/06/15/mixins-in-ruby/
 [OptionParser]: http://github.com/mcollective/marionette-collective/blob/master/lib/mcollective/optionparser.rb
+
+## {{page.title}}
 
 As pointed out in the [SimpleRPCIntroduction] page you can use the _mc-rpc_ CLI to call agents and it will do it's best to print results in a sane way.  When this is not enough you can write your own clients.
 

@@ -8,8 +8,7 @@ disqus: true
 [MessageFlow]: messageflow.html
 [ScreenCast]: /introduction/screencasts.html#message_flow
 
-Message Format
---------------
+## {{page.title}}
 
 The messages that gets put on the middleware attempts to contain everything that mcollective needs to function, avoiding where possible special features in the Middle Ware.  This will hopefully make it easier to create Connector plugins for other middleware.
 

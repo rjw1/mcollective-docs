@@ -1,10 +1,9 @@
 ---
 layout: mcollective
-title: Users Documentation
+title: Users Documentation and Reference
 ---
 
-Users Documentation and References
-----------------------------------
+## {{page.title}}
 
 Index to basic users documentation.
 

@@ -5,8 +5,7 @@ disqus: true
 ---
 [STOMP]: http://stomp.codehaus.org/
 
-Stomp Connector
----------------
+## {{page.title}}
 
 The stomp connector uses the [STOMP] rubygem to connect to compatible servers.  This is known to work with ActiveMQ and Stompserver.  Anecdotal evidence suggests it works with RabbitMQ's Stomp plugin.
 

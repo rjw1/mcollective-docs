@@ -13,9 +13,7 @@ disqus: true
 [Registration]: /reference/plugins/registration.html
 [SimpleRPCAuthorization]: /simplerpc/authorization.html
 
-Terminology
------------
-
+## {{page.title}}
 This page documents the various terms used in relation to mcollective.
 
 ### Server

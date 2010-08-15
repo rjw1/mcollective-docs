@@ -34,8 +34,7 @@ disqus: true
 [ActiveMQ]: /reference/integration/activemq_security.html
 [MessageFormat]: /reference/basic/messageformat.html
 
-Introduction
-------------
+## {{page.title}}
 The Marionette Collective aka. mcollective is a framework to build server 
 orchestration or parallel job execution systems.
 

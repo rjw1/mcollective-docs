@@ -5,8 +5,7 @@ disqus: true
 ---
 [RegistrationMonitor]: http://code.google.com/p/mcollective-plugins/wiki/AgentRegistrationMonitor
 
-Regsitration
-------------
+## {{page.title}}
 
 We support the ability for each node to register with a central inventory, we don't use the inventory 
 internally for anything it's there as a framework to enable you to build inventory systems or WebUI's.

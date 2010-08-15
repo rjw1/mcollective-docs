@@ -10,8 +10,7 @@ disqus: true
 [SecurityWithActiveMQ]: /reference/integration/activemq_security.html
 [SampleConfig]: http://github.com/mcollective/marionette-collective/tree/master/ext/activemq/
 
-ActiveMQ Clustering
--------------------
+## {{page.title}}
 
 Relying on existing middleware tools and not re-inventing the transport wheel ourselves means we can take advantage of a lot of the built in features they provide.  One such feature is clustering in ActiveMQ that allows for highly scalable and flexible network layouts.
 

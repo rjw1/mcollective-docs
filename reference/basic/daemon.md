@@ -1,10 +1,9 @@
 ---
 layout: mcollective
-title: Overview
+title: Controlling the Daemon
 disqus: true
 ---
-Controlling the Daemon
-----------------------
+## {{page.title}}
 
 The main daemon that runs on nodes keeps internal stats and supports reloading of agents, we provide 
 a tool - *mc-controller* - to interact with any running daemon from a client.

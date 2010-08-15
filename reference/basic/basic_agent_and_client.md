@@ -5,8 +5,7 @@ disqus: true
 ---
 [SimpleRPCIntroduction]: /simplerpc/
 
-Basic Agents and Clients
-------------------------
+## {{page.title}}
 
 In general you should use [SimpleRPC][SimpleRPCIntroduction] for writing agents and clients.  SimpleRPC is a framework that wraps the core MCollective client and agent structures in a lot of helpful convention and tools.
 

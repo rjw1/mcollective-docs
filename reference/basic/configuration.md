@@ -4,8 +4,8 @@ title: Configuration Guide
 disqus: true
 ---
 
-Configuration Guide
--------------------
+## {{page.title}}
+
 This guide tells you about the major configuration options in the daemon and client config files.  There are options not mentioned
 here typically ones specific to a certain plugin.
 

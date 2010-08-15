@@ -1,6 +1,6 @@
 ---
 layout: mcollective
-title: Using With Puppet
+title: Using with Puppet
 disqus: true
 ---
 [FactsRLFacter]: http://code.google.com/p/mcollective-plugins/wiki/FactsRLFacter
@@ -18,8 +18,7 @@ disqus: true
 [ServiceAgent]: http://code.google.com/p/mcollective-plugins/wiki/AgentService
 [PackageAgent]: http://code.google.com/p/mcollective-plugins/wiki/AgentPackage
 
-Using with Puppet
------------------
+## {{page.title}}
 
 If you're a Puppet user you are supported in both facts and classes filters.
 

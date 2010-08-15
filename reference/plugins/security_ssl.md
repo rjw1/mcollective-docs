@@ -1,13 +1,12 @@
 ---
 layout: mcollective
-title: SSL Security
+title: OpenSSL based Security Plugin
 disqus: true
 ---
 [SimpleRPCAuthorization]: /simplerpc/authorization.html
 [Registration]: registration.html
 
-OpenSSL based Security Plugin
------------------------------
+## {{page.title}}
 
 ### Overview
 Implements a public/private key based message validation system using SSL

@@ -10,8 +10,7 @@ disqus: true
 [SimpleRPCIntroduction]: /simplerpc/
 [DDL]: /simplerpc/ddl.html
 
-Screen Casts
-------------
+## {{page.title}}
 We believe screen casts give the best introduction to new concepts, we've recorded
 quite a few that compliments the documentation.
 

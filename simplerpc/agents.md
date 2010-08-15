@@ -11,8 +11,7 @@ disqus: true
 [SimpleRPCDDL]: /simplerpc/ddl.html
 [WritingAgentsScreenCast]: http://mcollective.blip.tv/file/3808928/
 
-Writing Agents
---------------
+## {{page.title}}
 
 Simple RPC works because it makes a lot of assumptions about how you write agents, we'll try to capture those assumptions here and show you how to apply them to our Helloworld agent.
 
