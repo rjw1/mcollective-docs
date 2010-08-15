@@ -24,14 +24,14 @@ disqus: true
 
 ## {{page.title}}
 
-Below find a rough guide to get you going, this assumes the client and server is on the same node, but servers don't need the client code installed.
+Below you will find a rough guide to get you going, this assumes that the client and the server are on the same node, but servers don't need the client code installed.
 
-For an even quicker intro to how it all works you can try our [EC2 based demo][EC2Demo]
+For an even quicker introduction to how it all works you can try our [EC2 based demo][EC2Demo]
 
 Look at the [Screencasts] page, there are [some screencasts dealing with basic architecture, terminology and so forth][MessageFlowCast] that you might find helpful before getting started.
 
 ### Requirements
-We try to keep the requirements on external Gems to a minimum, you only need:
+We try to keep the requirements on external Gems to a minimum, you should only need:
 
  * A Stomp server, tested against [ActiveMQ]
  * Ruby
@@ -46,12 +46,11 @@ Information on installing mcollective and stomp from within Gentoo's portage are
 
 
 ### ActiveMQ
-I've developed this against ActiveMQ.  It should work against other Stomp servers but I suspect if you choose 
-one without username and password support you might have problems, please let me know if that's the case 
-and I'll refactor the code around that.
+We've developed this against ActiveMQ.  It should work against other Stomp servers but we suspect if you choose 
+one without username and password support you might have problems, please let us know if that's the case 
+and we'll refactor the code around that.
 
-Full details on setting up and configuring ActiveMQ is out of scope for this, but you can follow these simple 
-setup instructions for initial testing (make sure JDK is installed, see below for Debian specific issue regarding JDK):
+Full details on setting up and configuring ActiveMQ is out of scope for this introduction, but you can follow these simple setup instructions for initial testing (make sure a JDK is installed, see below for Debian specific issue regarding which JDK to install):
 
 #### Download and Install
  1. Download the ActiveMQ "binary" package (for Unix) from [ActiveMQ]
@@ -72,7 +71,7 @@ A spec file can be found in the *ext* directory on GitHub that can be used to bu
 you need *tanukiwrapper* which you can find from *jpackage*, it runs fine under OpenJDK that comes with recent 
 versions of these Operating Systems.  I've uploaded some RPMs and SRPMs [here][DepRPMs].
 
-For Debian systems you'd be better off using OpenJDK than Sun JDK, there's a known issue [#562954][DebianBug].
+For Debian systems you will be better off using OpenJDK instead of the Sun JDK which has a known issue ([#562954][DebianBug]).
 
 #### Configuring Stomp
 First you should configure ActiveMQ to listen on the Stomp protocol
@@ -134,7 +133,7 @@ There are also a few known to work and tested [configs in git][ActiveMQSamples].
 ### mcollective
 #### Download and Extract
 Grab a copy of the mcollective ideally you'd use a package for your distribution else there's a tarfile that 
-you can use, you can extract it wherever you want, the RPMs or deps will put files in Operating System compatible 
+you can use, you can extract it wherever you want, the RPMs or debs will put files in Operating System compatible 
 locations.  If you use the tarball you'll need to double check all the paths in the config files below.
 
 #### Configure
@@ -244,14 +243,13 @@ your.domain.com
 
 Chef does not yet support such a list natively but we have some details on the wiki to achieve the same with Chef.
 
-The filter commands are important they will be the main tool you use to target only parts of your infrastructure with calls to agents.
+The filter commands are important as they will be the main tool you will use to target only parts of your infrastructure with calls to agents.
 
 See the *--help* option to the various *mc-`*`* script for available options.  You can now look at some of the available plugins and 
 play around, you might need to run the server process as root if you want to play with services etc.
 
 #### Plugins
-We provide limited default plugins, you can look on our sister project [MCollective Plugins][Plugins] where you will 
-find various plugins to manage packages, services etc.
+We provide a limited number of default plugins, Our sister project [MCollective Plugins][Plugins] has various plugins to manage packages, services etc.
 
 #### Further Reading
 From here you should look at the rest of the wiki pages some key pages are:
