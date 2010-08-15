@@ -1,5 +1,5 @@
 #bodycontent {border-top:1px solid #eee; padding-top: 20px; font-size:1.2em;}
-#bodycontent h2 {text-decoration:underline;}
+#bodycontent h2 {text-decoration:none; font-weight:bold; font-size:1.5em;}
 #bodycontent h3 {text-decoration:underline;}
 #bodycontent h4 {text-decoration:underline;}
 #bodycontent .noline {text-decoration:none;}
@@ -7,7 +7,7 @@
 #disqus {border-top:1px solid #eee; padding-top: 20px;}
 #topheader {padding-top: 20px;}
 
-#sidebar h3 {font-size:20px; font-weight:normal; margin:24px 0 8px 0;}
+#sidebar h3 {font-size:1.4em; font-weight:normal; margin:24px 0 8px 0;}
 #sidebar ul {margin:0px; padding:0px;}
 #sidebar li {list-style:none; padding:1px 0 1px 12px; background:url(/images/mcollective/li.png) 0px 8px no-repeat;}
 #sidebar a {color:#CC385E; text-decoration:none;}
