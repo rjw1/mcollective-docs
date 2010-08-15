@@ -35,3 +35,13 @@ Index to basic users documentation.
  1. [OpenSSL based Security Plugin](plugins/security_ssl.html)
  1. [Fact Source Plugins](plugins/facts.html)
  1. [Stomp Connector](plugins/connector_stomp.html)
+
+ <h4 class="noline">Operating Systems</h4>
+
+ 1. [Gentoo](os/gentoo.html)
+
+ <h4 class="noline">Development</h4>
+
+ 1. [Release Tasks](development/releasetasks.html)
+ 1. [EC2 Demo Creation](development/ec2_demo.html)
+
